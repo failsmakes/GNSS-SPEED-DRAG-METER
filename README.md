@@ -3,9 +3,7 @@
 Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapmanızı sağlayan bir DIY cihazdır.  
 **TTGO T-Display ESP32**, **ATGM336H GPS modülü** ve **AA boyutunda Li-Ion şarjlı batarya** kullanılarak oluşturulur. Tüm bileşenler özel tasarım bir **3D baskı kasaya** yerleştirilir.
 
-[📽️ YouTube videosunu izlemek için tıklayın (fails&makes)](https://www.youtube.com/@failsmakes)  
-[![📽️ YouTube videosunu izlemek için tıklayın (fails&makes)](https://img.youtube.com/vi/B7Y5htn2IzM/0.jpg)](https://youtu.be/B7Y5htn2IzM)
-[📦 3D baskı kasa tasarımı için Printables bağlantısı](https://www.printables.com/)
+[📽️ YouTube videosunu izlemek için tıklayın (fails&makes)](https://youtu.be/B7Y5htn2IzM)
 
 ---
 
@@ -59,8 +57,7 @@ Bu proje GNU AFFERO GENERAL PUBLIC LICENSE Lisansı ile açık kaynak olarak pay
 This project is a DIY device that allows you to measure real-time speed and drag time on RC vehicles.  
 It’s built using a **TTGO T-Display ESP32**, an **ATGM336H GPS module**, and a **14500-size rechargeable Li-Ion battery**. All components are housed inside a custom-designed **3D-printed enclosure**.
 
-[📽️ Click to watch the YouTube video (fails&makes)](https://www.youtube.com/@failsmakes)  
-[📦 Link to the 3D printable enclosure on Printables](https://www.printables.com/)
+[📽️ Click to watch the YouTube video (fails&makes)](https://youtu.be/B7Y5htn2IzM))  
 
 ---
 
