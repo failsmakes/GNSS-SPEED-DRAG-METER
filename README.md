@@ -1,6 +1,4 @@
-# GNSS SPEED DRAG METER / GNSS HIZ ve DRAG ZAMANI ÖLÇER
-
-# 🛰️ RC Araçlar için GPS Hız Ölçer
+# 🛰️ RC Araçlar için GPS Hız & Drag Süresi Ölçer
 
 Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapmanızı sağlayan bir DIY cihazdır.  
 **TTGO T-Display ESP32**, **ATGM336H GPS modülü** ve **AA boyutunda Li-Ion şarjlı batarya** kullanılarak oluşturulur. Tüm bileşenler özel tasarım bir **3D baskı kasaya** yerleştirilir.
