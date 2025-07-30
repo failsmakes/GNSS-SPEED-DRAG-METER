@@ -43,14 +43,6 @@ Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapman�
 
 ---
 
-## 🚀 Başlarken
-
-1. PlatformIO ile kartınıza yazılımı yükleyin.  
-2. Kodları yükleyin.  
-3. Cihazı dış mekanda test edin (GPS sinyali için açık alan gerekli).
-
----
-
 ## 🧠 Lisans
 
 Bu proje GNU AFFERO GENERAL PUBLIC LICENSE Lisansı ile açık kaynak olarak paylaşılmıştır. Forklayabilir, geliştirebilir, katkı sağlayabilirsiniz.
