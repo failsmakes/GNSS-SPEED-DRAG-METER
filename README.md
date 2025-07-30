@@ -4,6 +4,7 @@ Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapman�
 **TTGO T-Display ESP32**, **ATGM336H GPS modülü** ve **AA boyutunda Li-Ion şarjlı batarya** kullanılarak oluşturulur. Tüm bileşenler özel tasarım bir **3D baskı kasaya** yerleştirilir.
 
 [📽️ YouTube videosunu izlemek için tıklayın (fails&makes)](https://www.youtube.com/@failsmakes)  
+[![📽️ YouTube videosunu izlemek için tıklayın (fails&makes)](https://img.youtube.com/vi/B7Y5htn2IzM/0.jpg)](https://youtu.be/B7Y5htn2IzM)
 [📦 3D baskı kasa tasarımı için Printables bağlantısı](https://www.printables.com/)
 
 ---
