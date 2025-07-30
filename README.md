@@ -8,6 +8,10 @@ Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapman�
 
 ---
 
+![Proje Kapağı](Photos/IMG_20250730_105555.jpg)
+
+---
+
 ## 🔧 Donanım
 
 - TTGO T-Display ESP32 geliştirme kartı  
@@ -48,3 +52,4 @@ Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapman�
 Bu proje GNU AFFERO GENERAL PUBLIC LICENSE Lisansı ile açık kaynak olarak paylaşılmıştır. Forklayabilir, geliştirebilir, katkı sağlayabilirsiniz.
 
 ---
+
