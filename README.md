@@ -50,3 +50,9 @@ Bu proje, RC araçlarda gerçek zamanlı hız ve drag süresi ölçümü yapman�
 3. Cihazı dış mekanda test edin (GPS sinyali için açık alan gerekli).
 
 ---
+
+## 🧠 Lisans
+
+Bu proje GNU AFFERO GENERAL PUBLIC LICENSE Lisansı ile açık kaynak olarak paylaşılmıştır. Forklayabilir, geliştirebilir, katkı sağlayabilirsiniz.
+
+---
